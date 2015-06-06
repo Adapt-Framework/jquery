@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adapt_framework>
+  <bundle>
+    <label>jQuery</label>
+    <name>jquery</name>
+    <type>framework</type>
+    <version>1.11.2</version>
+    <namespace>/frameworks/jquery</namespace>
+    <description />
+    <copyright>2015 The jQuery Foundation</copyright>
+    <license>MIT</license>
+    <depends_on>adapt</depends_on>
+    <schema_installed>Yes</schema_installed>
+  </bundle>
+</adapt_framework>
