@@ -5,9 +5,13 @@
     <name>jquery</name>
     <type>framework</type>
     <version>1.11.2</version>
-    <namespace>/frameworks/jquery</namespace>
+    <namespace>\jquery</namespace>
     <description />
     <copyright>2015 The jQuery Foundation</copyright>
     <license>MIT</license>
+    <bundle>
+      <name>adapt</name>
+      <version>1.0</version>
+    </bundle>
   </bundle>
 </adapt_framework>
