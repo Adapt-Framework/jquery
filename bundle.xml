@@ -9,9 +9,11 @@
     <description />
     <copyright>2015 The jQuery Foundation</copyright>
     <license>MIT</license>
-    <bundle>
-      <name>adapt</name>
-      <version>1.0</version>
-    </bundle>
+    <depends_on>
+      <bundle>
+        <name>adapt</name>
+        <version>1.0</version>
+      </bundle>
+    </depends_on>
   </bundle>
 </adapt_framework>
