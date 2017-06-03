@@ -3,11 +3,17 @@
   <bundle>
     <label>jQuery</label>
     <name>jquery</name>
-    <type>framework</type>
+    <type>js_framework</type>
     <version>1.11.2</version>
+    <version_status>release</version_status>
+    <availability>public</availability>
     <namespace>\jquery</namespace>
-    <description />
+    <description>The write less, do more, javascript library.</description>
     <copyright>2015 The jQuery Foundation</copyright>
+    <vendor>
+        <name>Adapt Framework</name>
+        <website>https://www.adaptframework.com</website>
+    </vendor>
     <license>MIT</license>
     <depends_on>
       <bundle>
