@@ -4,6 +4,8 @@
     <label>jQuery</label>
     <name>jquery</name>
     <type>js_framework</type>
+    <version_status>release</version_status>
+    <availability>public</availability>
     <version>1.11.2</version>
     <version_status>release</version_status>
     <availability>public</availability>
